@@ -8,5 +8,5 @@ $ chmod u+x Assembler.py
 ```
 Then run it using the `--input` and `--output` parameters to point to the input `.ams`-file and output `.hack`-file:
 ```bash
-$ ./Assembler.py --input input.asm --output output.asm
+$ ./Assembler.py --input input.asm --output output.hack
 ```
